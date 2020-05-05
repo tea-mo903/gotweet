@@ -1,3 +1,3 @@
-module github.com/tea-mo903/gotweet
+module github.com/timoknapp/gotweet
 
 go 1.12
